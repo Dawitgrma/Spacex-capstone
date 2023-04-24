@@ -1,0 +1,213 @@
+Flight No.,Launch site,Payload,Payload mass,Orbit,Customer,Launch outcome,Version Booster,Booster landing,Date,Time,Flight No,Launch Site
+1,CCAFS,Dragon Spacecraft Qualification Unit,"~5,000 kg",SSO,SpaceX,"Success
+",F9 B5B1058.5,Success,24 January 2021,15:00,106,CCSFS
+2,CCAFS,Dragon,"~5,000 kg",SSO,SpaceX,"Success
+",F9 B5B1058.5,Success,24 January 2021,15:00,106,CCSFS
+3,CCAFS,Dragon,"~5,000 kg",SSO,SpaceX,"Success
+",F9 B5B1058.5,Success,24 January 2021,15:00,106,CCSFS
+4,CCAFS,SpaceX CRS-1,"~5,000 kg",SSO,SpaceX,"Success
+",F9 B5B1058.5,Success,24 January 2021,15:00,106,CCSFS
+5,CCAFS,SpaceX CRS-2,"~5,000 kg",SSO,SpaceX,"Success
+",F9 B5B1058.5,Success,24 January 2021,15:00,106,CCSFS
+6,VAFB,CASSIOPE,"~5,000 kg",SSO,SpaceX,"Success
+",F9 B5B1058.5,Success,24 January 2021,15:00,106,CCSFS
+7,CCAFS,SES-8,"~5,000 kg",SSO,SpaceX,"Success
+",F9 B5B1058.5,Success,24 January 2021,15:00,106,CCSFS
+8,CCAFS,Thaicom 6,"~5,000 kg",SSO,SpaceX,"Success
+",F9 B5B1058.5,Success,24 January 2021,15:00,106,CCSFS
+9,Cape Canaveral,SpaceX CRS-3,"~5,000 kg",SSO,SpaceX,"Success
+",F9 B5B1058.5,Success,24 January 2021,15:00,106,CCSFS
+10,Cape Canaveral,Orbcomm-OG2,"~5,000 kg",SSO,SpaceX,"Success
+",F9 B5B1058.5,Success,24 January 2021,15:00,106,CCSFS
+11,Cape Canaveral,AsiaSat 8,"~5,000 kg",SSO,SpaceX,"Success
+",F9 B5B1058.5,Success,24 January 2021,15:00,106,CCSFS
+12,Cape Canaveral,AsiaSat 6,"~5,000 kg",SSO,SpaceX,"Success
+",F9 B5B1058.5,Success,24 January 2021,15:00,106,CCSFS
+13,Cape Canaveral,SpaceX CRS-4,"~5,000 kg",SSO,SpaceX,"Success
+",F9 B5B1058.5,Success,24 January 2021,15:00,106,CCSFS
+14,Cape Canaveral,SpaceX CRS-5,"~5,000 kg",SSO,SpaceX,"Success
+",F9 B5B1058.5,Success,24 January 2021,15:00,106,CCSFS
+15,Cape Canaveral,DSCOVR,"~5,000 kg",SSO,SpaceX,"Success
+",F9 B5B1058.5,Success,24 January 2021,15:00,106,CCSFS
+16,Cape Canaveral,ABS-3A,"~5,000 kg",SSO,SpaceX,"Success
+",F9 B5B1058.5,Success,24 January 2021,15:00,106,CCSFS
+17,Cape Canaveral,SpaceX CRS-6,"~5,000 kg",SSO,SpaceX,"Success
+",F9 B5B1058.5,Success,24 January 2021,15:00,106,CCSFS
+18,Cape Canaveral,TürkmenÄlem 52°E / MonacoSAT,"~5,000 kg",SSO,SpaceX,"Success
+",F9 B5B1058.5,Success,24 January 2021,15:00,106,CCSFS
+19,Cape Canaveral,SpaceX CRS-7,"~5,000 kg",SSO,SpaceX,"Success
+",F9 B5B1058.5,Success,24 January 2021,15:00,106,CCSFS
+20,Cape Canaveral,Orbcomm-OG2,"~5,000 kg",SSO,SpaceX,"Success
+",F9 B5B1058.5,Success,24 January 2021,15:00,106,CCSFS
+21,VAFB,Jason-3,"~5,000 kg",SSO,SpaceX,"Success
+",F9 B5B1058.5,Success,24 January 2021,15:00,106,CCSFS
+22,Cape Canaveral,SES-9,"~5,000 kg",SSO,SpaceX,"Success
+",F9 B5B1058.5,Success,24 January 2021,15:00,106,CCSFS
+23,Cape Canaveral,SpaceX CRS-8,"~5,000 kg",SSO,SpaceX,"Success
+",F9 B5B1058.5,Success,24 January 2021,15:00,106,CCSFS
+24,Cape Canaveral,JCSAT-14,"~5,000 kg",SSO,SpaceX,"Success
+",F9 B5B1058.5,Success,24 January 2021,15:00,106,CCSFS
+25,Cape Canaveral,Thaicom 8,"~5,000 kg",SSO,SpaceX,"Success
+",F9 B5B1058.5,Success,24 January 2021,15:00,106,CCSFS
+26,Cape Canaveral,ABS-2A,"~5,000 kg",SSO,SpaceX,"Success
+",F9 B5B1058.5,Success,24 January 2021,15:00,106,CCSFS
+27,Cape Canaveral,SpaceX CRS-9,"~5,000 kg",SSO,SpaceX,"Success
+",F9 B5B1058.5,Success,24 January 2021,15:00,106,CCSFS
+28,Cape Canaveral,JCSAT-16,"~5,000 kg",SSO,SpaceX,"Success
+",F9 B5B1058.5,Success,24 January 2021,15:00,106,CCSFS
+29,VAFB,Iridium NEXT,"~5,000 kg",SSO,SpaceX,"Success
+",F9 B5B1058.5,Success,24 January 2021,15:00,106,CCSFS
+30,KSC,SpaceX CRS-10,"~5,000 kg",SSO,SpaceX,"Success
+",F9 B5B1058.5,Success,24 January 2021,15:00,106,CCSFS
+31,KSC,EchoStar 23,"~5,000 kg",SSO,SpaceX,"Success
+",F9 B5B1058.5,Success,24 January 2021,15:00,106,CCSFS
+32,KSC,SES-10,"~5,000 kg",SSO,SpaceX,"Success
+",F9 B5B1058.5,Success,24 January 2021,15:00,106,CCSFS
+33,KSC,NROL-76,"~5,000 kg",SSO,SpaceX,"Success
+",F9 B5B1058.5,Success,24 January 2021,15:00,106,CCSFS
+34,KSC,Inmarsat-5 F4,"~5,000 kg",SSO,SpaceX,"Success
+",F9 B5B1058.5,Success,24 January 2021,15:00,106,CCSFS
+35,KSC,SpaceX CRS-11,"~5,000 kg",SSO,SpaceX,"Success
+",F9 B5B1058.5,Success,24 January 2021,15:00,106,CCSFS
+36,KSC,BulgariaSat-1,"~5,000 kg",SSO,SpaceX,"Success
+",F9 B5B1058.5,Success,24 January 2021,15:00,106,CCSFS
+37,VAFB,Iridium NEXT,"~5,000 kg",SSO,SpaceX,"Success
+",F9 B5B1058.5,Success,24 January 2021,15:00,106,CCSFS
+38,KSC,Intelsat 35e,"~5,000 kg",SSO,SpaceX,"Success
+",F9 B5B1058.5,Success,24 January 2021,15:00,106,CCSFS
+39,KSC,SpaceX CRS-12,"~5,000 kg",SSO,SpaceX,"Success
+",F9 B5B1058.5,Success,24 January 2021,15:00,106,CCSFS
+40,VAFB,Formosat-5,"~5,000 kg",SSO,SpaceX,"Success
+",F9 B5B1058.5,Success,24 January 2021,15:00,106,CCSFS
+41,KSC,Boeing X-37B,"~5,000 kg",SSO,SpaceX,"Success
+",F9 B5B1058.5,Success,24 January 2021,15:00,106,CCSFS
+42,VAFB,Iridium NEXT,"~5,000 kg",SSO,SpaceX,"Success
+",F9 B5B1058.5,Success,24 January 2021,15:00,106,CCSFS
+43,KSC,SES-11,"~5,000 kg",SSO,SpaceX,"Success
+",F9 B5B1058.5,Success,24 January 2021,15:00,106,CCSFS
+44,KSC,Koreasat 5A,"~5,000 kg",SSO,SpaceX,"Success
+",F9 B5B1058.5,Success,24 January 2021,15:00,106,CCSFS
+45,Cape Canaveral,SpaceX CRS-13,"~5,000 kg",SSO,SpaceX,"Success
+",F9 B5B1058.5,Success,24 January 2021,15:00,106,CCSFS
+46,VAFB,Iridium NEXT,"~5,000 kg",SSO,SpaceX,"Success
+",F9 B5B1058.5,Success,24 January 2021,15:00,106,CCSFS
+47,CCAFS,Zuma,"~5,000 kg",SSO,SpaceX,"Success
+",F9 B5B1058.5,Success,24 January 2021,15:00,106,CCSFS
+48,CCAFS,GovSat-1,"~5,000 kg",SSO,SpaceX,"Success
+",F9 B5B1058.5,Success,24 January 2021,15:00,106,CCSFS
+49,VAFB,Paz,"~5,000 kg",SSO,SpaceX,"Success
+",F9 B5B1058.5,Success,24 January 2021,15:00,106,CCSFS
+50,CCAFS,Hispasat 30W-6,"~5,000 kg",SSO,SpaceX,"Success
+",F9 B5B1058.5,Success,24 January 2021,15:00,106,CCSFS
+51,VAFB,Iridium NEXT,"~5,000 kg",SSO,SpaceX,"Success
+",F9 B5B1058.5,Success,24 January 2021,15:00,106,CCSFS
+52,CCAFS,SpaceX CRS-14,"~5,000 kg",SSO,SpaceX,"Success
+",F9 B5B1058.5,Success,24 January 2021,15:00,106,CCSFS
+53,CCAFS,Transiting Exoplanet Survey Satellite,"~5,000 kg",SSO,SpaceX,"Success
+",F9 B5B1058.5,Success,24 January 2021,15:00,106,CCSFS
+54,KSC,Bangabandhu-1,"~5,000 kg",SSO,SpaceX,"Success
+",F9 B5B1058.5,Success,24 January 2021,15:00,106,CCSFS
+55,VAFB,Iridium NEXT,"~5,000 kg",SSO,SpaceX,"Success
+",F9 B5B1058.5,Success,24 January 2021,15:00,106,CCSFS
+56,CCAFS,SES-12,"~5,000 kg",SSO,SpaceX,"Success
+",F9 B5B1058.5,Success,24 January 2021,15:00,106,CCSFS
+57,CCAFS,SpaceX CRS-15,"~5,000 kg",SSO,SpaceX,"Success
+",F9 B5B1058.5,Success,24 January 2021,15:00,106,CCSFS
+58,CCAFS,Telstar 19V,"~5,000 kg",SSO,SpaceX,"Success
+",F9 B5B1058.5,Success,24 January 2021,15:00,106,CCSFS
+59,VAFB,Iridium NEXT,"~5,000 kg",SSO,SpaceX,"Success
+",F9 B5B1058.5,Success,24 January 2021,15:00,106,CCSFS
+60,CCAFS,Merah Putih,"~5,000 kg",SSO,SpaceX,"Success
+",F9 B5B1058.5,Success,24 January 2021,15:00,106,CCSFS
+61,CCAFS,Telstar 18V,"~5,000 kg",SSO,SpaceX,"Success
+",F9 B5B1058.5,Success,24 January 2021,15:00,106,CCSFS
+62,VAFB,SAOCOM 1A,"~5,000 kg",SSO,SpaceX,"Success
+",F9 B5B1058.5,Success,24 January 2021,15:00,106,CCSFS
+63,KSC,Es'hail 2,"~5,000 kg",SSO,SpaceX,"Success
+",F9 B5B1058.5,Success,24 January 2021,15:00,106,CCSFS
+64,VAFB,SSO-A,"~5,000 kg",SSO,SpaceX,"Success
+",F9 B5B1058.5,Success,24 January 2021,15:00,106,CCSFS
+65,CCAFS,SpaceX CRS-16,"~5,000 kg",SSO,SpaceX,"Success
+",F9 B5B1058.5,Success,24 January 2021,15:00,106,CCSFS
+66,CCAFS,GPS III,"~5,000 kg",SSO,SpaceX,"Success
+",F9 B5B1058.5,Success,24 January 2021,15:00,106,CCSFS
+67,VAFB,Iridium NEXT,"~5,000 kg",SSO,SpaceX,"Success
+",F9 B5B1058.5,Success,24 January 2021,15:00,106,CCSFS
+68,CCAFS,Nusantara Satu,"~5,000 kg",SSO,SpaceX,"Success
+",F9 B5B1058.5,Success,24 January 2021,15:00,106,CCSFS
+69,KSC,Crew Dragon Demo-1,"~5,000 kg",SSO,SpaceX,"Success
+",F9 B5B1058.5,Success,24 January 2021,15:00,106,CCSFS
+70,CCAFS,SpaceX CRS-17,"~5,000 kg",SSO,SpaceX,"Success
+",F9 B5B1058.5,Success,24 January 2021,15:00,106,CCSFS
+71,CCAFS,Starlink,"~5,000 kg",SSO,SpaceX,"Success
+",F9 B5B1058.5,Success,24 January 2021,15:00,106,CCSFS
+72,VAFB,RADARSAT Constellation,"~5,000 kg",SSO,SpaceX,"Success
+",F9 B5B1058.5,Success,24 January 2021,15:00,106,CCSFS
+73,CCAFS,SpaceX CRS-18,"~5,000 kg",SSO,SpaceX,"Success
+",F9 B5B1058.5,Success,24 January 2021,15:00,106,CCSFS
+74,CCAFS,AMOS-17,"~5,000 kg",SSO,SpaceX,"Success
+",F9 B5B1058.5,Success,24 January 2021,15:00,106,CCSFS
+75,CCAFS,Starlink,"~5,000 kg",SSO,SpaceX,"Success
+",F9 B5B1058.5,Success,24 January 2021,15:00,106,CCSFS
+76,CCAFS,SpaceX CRS-19,"~5,000 kg",SSO,SpaceX,"Success
+",F9 B5B1058.5,Success,24 January 2021,15:00,106,CCSFS
+77,CCAFS,JCSat-18,"~5,000 kg",SSO,SpaceX,"Success
+",F9 B5B1058.5,Success,24 January 2021,15:00,106,CCSFS
+78,CCAFS,Starlink,"~5,000 kg",SSO,SpaceX,"Success
+",F9 B5B1058.5,Success,24 January 2021,15:00,106,CCSFS
+79,KSC,Crew Dragon in-flight abort test,"~5,000 kg",SSO,SpaceX,"Success
+",F9 B5B1058.5,Success,24 January 2021,15:00,106,CCSFS
+80,CCAFS,Starlink,"~5,000 kg",SSO,SpaceX,"Success
+",F9 B5B1058.5,Success,24 January 2021,15:00,106,CCSFS
+81,CCAFS,Starlink,"~5,000 kg",SSO,SpaceX,"Success
+",F9 B5B1058.5,Success,24 January 2021,15:00,106,CCSFS
+82,CCAFS,SpaceX CRS-20,"~5,000 kg",SSO,SpaceX,"Success
+",F9 B5B1058.5,Success,24 January 2021,15:00,106,CCSFS
+83,KSC,Starlink,"~5,000 kg",SSO,SpaceX,"Success
+",F9 B5B1058.5,Success,24 January 2021,15:00,106,CCSFS
+84,KSC,Starlink,"~5,000 kg",SSO,SpaceX,"Success
+",F9 B5B1058.5,Success,24 January 2021,15:00,106,CCSFS
+85,KSC,Crew Dragon Demo-2,"~5,000 kg",SSO,SpaceX,"Success
+",F9 B5B1058.5,Success,24 January 2021,15:00,106,CCSFS
+86,CCAFS,Starlink,"~5,000 kg",SSO,SpaceX,"Success
+",F9 B5B1058.5,Success,24 January 2021,15:00,106,CCSFS
+87,CCAFS,Starlink,"~5,000 kg",SSO,SpaceX,"Success
+",F9 B5B1058.5,Success,24 January 2021,15:00,106,CCSFS
+88,CCAFS,GPS III,"~5,000 kg",SSO,SpaceX,"Success
+",F9 B5B1058.5,Success,24 January 2021,15:00,106,CCSFS
+89,CCAFS,ANASIS-II,"~5,000 kg",SSO,SpaceX,"Success
+",F9 B5B1058.5,Success,24 January 2021,15:00,106,CCSFS
+90,KSC,Starlink,"~5,000 kg",SSO,SpaceX,"Success
+",F9 B5B1058.5,Success,24 January 2021,15:00,106,CCSFS
+91,CCAFS,Starlink,"~5,000 kg",SSO,SpaceX,"Success
+",F9 B5B1058.5,Success,24 January 2021,15:00,106,CCSFS
+92,CCAFS,SAOCOM 1B,"~5,000 kg",SSO,SpaceX,"Success
+",F9 B5B1058.5,Success,24 January 2021,15:00,106,CCSFS
+93,KSC,Starlink,"~5,000 kg",SSO,SpaceX,"Success
+",F9 B5B1058.5,Success,24 January 2021,15:00,106,CCSFS
+94,KSC,Starlink,"~5,000 kg",SSO,SpaceX,"Success
+",F9 B5B1058.5,Success,24 January 2021,15:00,106,CCSFS
+95,KSC,Starlink,"~5,000 kg",SSO,SpaceX,"Success
+",F9 B5B1058.5,Success,24 January 2021,15:00,106,CCSFS
+96,CCAFS,Starlink,"~5,000 kg",SSO,SpaceX,"Success
+",F9 B5B1058.5,Success,24 January 2021,15:00,106,CCSFS
+97,CCAFS,GPS III,"~5,000 kg",SSO,SpaceX,"Success
+",F9 B5B1058.5,Success,24 January 2021,15:00,106,CCSFS
+98,KSC,Crew-1,"~5,000 kg",SSO,SpaceX,"Success
+",F9 B5B1058.5,Success,24 January 2021,15:00,106,CCSFS
+99,VAFB,Sentinel-6 Michael Freilich (Jason-CS A),"~5,000 kg",SSO,SpaceX,"Success
+",F9 B5B1058.5,Success,24 January 2021,15:00,106,CCSFS
+100,CCAFS,Starlink,"~5,000 kg",SSO,SpaceX,"Success
+",F9 B5B1058.5,Success,24 January 2021,15:00,106,CCSFS
+101,KSC,SpaceX CRS-21,"~5,000 kg",SSO,SpaceX,"Success
+",F9 B5B1058.5,Success,24 January 2021,15:00,106,CCSFS
+102,CCSFS,SXM-7,"~5,000 kg",SSO,SpaceX,"Success
+",F9 B5B1058.5,Success,24 January 2021,15:00,106,CCSFS
+103,KSC,NROL-108,"~5,000 kg",SSO,SpaceX,"Success
+",F9 B5B1058.5,Success,24 January 2021,15:00,106,CCSFS
+104,CCSFS,Türksat 5A,"~5,000 kg",SSO,SpaceX,"Success
+",F9 B5B1058.5,Success,24 January 2021,15:00,106,CCSFS
+105,KSC,Starlink,"~5,000 kg",SSO,SpaceX,"Success
+",F9 B5B1058.5,Success,24 January 2021,15:00,106,CCSFS
+106,CCSFS,Transporter-1,"~5,000 kg",SSO,SpaceX,"Success
+",F9 B5B1058.5,Success,24 January 2021,15:00,106,CCSFS
